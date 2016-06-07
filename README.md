@@ -23,5 +23,4 @@ Unicore is a unique, modern, full-featured HTML/Bootstrap Landing Page template.
 </a>
 
 ### How to use it?
-Watch this video tutorial to learn how to create Landing Pages using Unicore Template:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/It3su_r0jsc" frameborder="0" allowfullscreen></iframe>
+Watch this video tutorial to learn how to create Landing Pages using Unicore Template [here](https://www.youtube.com/watch?v=It3su_r0jsc)
