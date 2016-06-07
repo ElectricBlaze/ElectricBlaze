@@ -18,6 +18,7 @@ Unicore is a unique, modern, full-featured HTML/Bootstrap Landing Page template.
 * Contact Page – PHP / AJAX contact form, just add your email and its ready. 
 * Google Map – Show the world were your are, how to reach you with the custom Google map.
 * PrettyPhoto lightbox – Portfolio page comes with Prettyphoto lightbox, you can add images, gallery or video with ease.
+
 <a href="http://electricblaze.com/">
 <img src="https://66.media.tumblr.com/7cbfa2fad8ed1128df10c32e1e10bda1/tumblr_o8e49pyDMO1vwa7mqo1_1280.jpg">
 </a>
