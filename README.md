@@ -34,3 +34,5 @@ Now you can:
 * Change the color of icons.
 
 To learn more about Unicore Page Builder, click <a href="http://electricblaze.com/unicore/page-builder">here</a>.
+
+You can also watch the new [video tutorial](https://www.youtube.com/watch?v=z41Uy3Tg-yI).
