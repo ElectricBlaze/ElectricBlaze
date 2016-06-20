@@ -25,3 +25,11 @@ Unicore is a unique, modern, full-featured HTML/Bootstrap Landing Page template.
 
 ### How to use it?
 Watch this video tutorial to learn how to create Landing Pages using Unicore Template [here](https://www.youtube.com/watch?v=It3su_r0jsc)
+
+### Recent Update
+Now you can:
+* Set and change your own logo
+* Work with more block parameters
+* Drag and drop new blocks: slider, gallery, progress bar, social icons, google maps
+* Change the color of icons
+To learn more about Unicore Page Builder, click <a href="http://electricblaze.com/unicore/page-builder">here</a>.
