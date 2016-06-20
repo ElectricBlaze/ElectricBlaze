@@ -32,4 +32,5 @@ Now you can:
 * Work with more block parameters
 * Drag and drop new blocks: slider, gallery, progress bar, social icons, google maps
 * Change the color of icons.
+
 To learn more about Unicore Page Builder, click <a href="http://electricblaze.com/unicore/page-builder">here</a>.
